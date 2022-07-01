@@ -1,2 +1,13 @@
 test-feature
 check-01
+
+
+DevOps Notes:-
+
+Resources:-
+
+Learning paths:-
+
+Pivoting to DevSecOps:-
+
+Certifications:-
